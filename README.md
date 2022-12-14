@@ -6,15 +6,15 @@
 
 3. Implement Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list and concatenate two linked lists (include a function and also overload operator +)
 
-4.Implement Doubly Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list
+4. Implement Doubly Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list
 
 5. Implement Circular Linked List using templates. Include functions for insertion, deletion and search of a number, reverse the list
 
 6. Perform Stack operations using Linked List implementation
 
-7.Perform Stack operations using Array implementation. Use Templates
+7. Perform Stack operations using Array implementation. Use Templates
 
-8.Perform Queues operations using Circular Array implementation. Use Templates
+8. Perform Queues operations using Circular Array implementation. Use Templates
 
 9. Create and perform different operations on Double-ended Queues using Linked List implementation
 
